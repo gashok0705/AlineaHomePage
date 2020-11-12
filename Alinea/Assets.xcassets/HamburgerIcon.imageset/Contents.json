@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "menu-of-three-lines.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
